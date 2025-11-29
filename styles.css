@@ -133,8 +133,8 @@ main {
 
 /* Texto del mes */
 .month-text {
-    font-size: clamp(0.95rem, 1.5vw, 1.05rem);
-    line-height: 1.8;
+    font-size: clamp(1.5rem, 1.5vw, 1.05rem);
+    line-height: 1.4;
     color: var(--accent-color);
     max-width: 800px;
     margin: 0 auto;
